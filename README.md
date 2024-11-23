@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krycerts
-- 👀 I’m interested in Cyber Security, Pentesting, Robitics, blacksmithing
+- 👀 I’m interested in Cyber Security, Pentesting, Robitics, Blacksmithing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on idk yet but ill get there.
 - 📫 How to reach me ...
